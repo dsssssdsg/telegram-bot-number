@@ -169,7 +169,7 @@ API_HASH = "e0e2a70a885d1497c8feb47815bb3e36"
 
 admin = 8379531283
 
-token = "8642652983:AAHOWWxWvA7CF9QYYyryFccFcaGKHhLZJ4c" #توكن بوتك
+token = "8642652983:AAFyXH3AbntzynW5-Vq7AZUYUgzmMtx4NUI" #توكن بوتك
 
 binance_api_key = '000000' #ايبي حسابك بينانس
 binance_api_secret = '000000' #سيكرت حسابك بينانس
